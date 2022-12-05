@@ -6,3 +6,5 @@ https://youtu.be/bwXIYBa0OVA
 
 Then print 4 off these bed adjustment wheels.
 
+MAKE SURE YOU PRINT IT BIG SIDE ON BUILDPLATE
+
